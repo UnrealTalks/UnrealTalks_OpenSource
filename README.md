@@ -3,4 +3,4 @@ demo project used for the talks
 
 ## changes
 
-V
+![SCREENSHOT](/assets/SCREENSHOT.png)
