@@ -1,6 +1,6 @@
 # UnrealTalks_OpenSource
 demo project used for the talks
-
+Full instructions on https://www.linkedin.com/pulse/unreal-talks-open-source-ryan-gadz/
 
 ```git clone https://github.com/UnrealTalks/UnrealTalks_OpenSource.git```
 
