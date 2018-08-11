@@ -10,6 +10,7 @@ followed by:
 ```git submodule update```
 to clone the plugin submodule
 
+![ScreenShot3](/assets/ScreenShot3.png)
 
 ![ScreenShot2](/assets/ScreenShot2.png)
 
