@@ -36,6 +36,10 @@
 		{
 			"Name": "DatasmithContent",
 			"Enabled": false
+		},
+		{
+			"Name": "VOX4U",
+			"Enabled": true
 		}
 	]
 }
